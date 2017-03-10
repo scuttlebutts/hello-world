@@ -1,2 +1,5 @@
 # hello-world
-The repository I made in the GitHub tutorial.
+
+Hi, this is me learning how to use GitHub!
+
+:D
